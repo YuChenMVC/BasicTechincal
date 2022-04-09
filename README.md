@@ -149,6 +149,25 @@ int func(int input){
 }
 ```
 
+## Technical Debt
+
+兩年前的自己還在config設定
+
+authconfig bundleconfig filter route webapiconfig
+
+連SQL也是parameters.add sqldataaddapter.fill
+
+factory沒抽象 nuget了一堆第三方套件
+
+書本理論背很熟 為了IS-A濫用inheritance 也沒liskov
+
+interface塞的肥肥的 cshtml整陀jquery
+
+欄位驗證[regularexpression]全部塞到model裡 也沒抽離出一個validationattribute
+
+core雖沒舊框架熟 至少跳脫舒適圈 多少有進步吧
+
+
 ## Resources
 
 <br>
