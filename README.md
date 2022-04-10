@@ -149,7 +149,9 @@ int func(int input){
 }
 ```
 
+<!--
 ## Technical Debt
+
 
 兩年前的自己還在config設定
 
@@ -166,7 +168,7 @@ interface塞的肥肥的 cshtml整陀jquery
 欄位驗證[regularexpression]全部塞到model裡 也沒抽離出一個validationattribute
 
 core雖沒舊框架熟 至少跳脫舒適圈 多少有進步吧
-
+-->
 
 ## Resources
 
